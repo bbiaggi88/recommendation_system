@@ -24,7 +24,7 @@ This project is a music recommendation system that leverages machine learning te
 2. Create a virtual environment and activate it:
     ```sh
     python3 -m venv env
-    source env/bin/activate  # On Windows use `env\Scripts\activate`
+    source env/bin/activate
     ```
 
 3. Install the required dependencies:
